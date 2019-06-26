@@ -1,6 +1,6 @@
 # Meester proef web dev
 
-![Final app](/img/app_final_v1.png)
+![Final app](/img/app_final_v3.png)
 
 ## Case
 In the final assessment of he web-dev minor I worked on the case for Semia, Semia is a collaborative group with researchers from the Eye film museum in Amsterdam working together to produce an immense database of films.
@@ -22,12 +22,13 @@ Werkt ook in oudere browsers, als nieuwere browsers ook dingen zoals animaties k
 Wordt ingezet om de juiste PE te doen.
 
 ### CSS To The Rescue
-
+- applying a clean css and make the app responsive as far as necessary
 
 ### WAFS
 - Code structuur
 Standaard van het team aanhouden (met prettier)
 SPA met code in modules
+Work in modules
 
 ### Web Design
 - Principes toepassen
