@@ -1,3 +1,7 @@
+# Meester proef web dev
+
+![Final app](/img/app_final_v1.png)
+
 ## Case
 In the final assessment of he web-dev minor I worked on the case for Semia, Semia is a collaborative group with researchers from the Eye film museum in Amsterdam working together to produce an immense database of films.
 I worked on this project together with three other students: Jeroen van Berkum, Leonie smits, en Martijn Reeuwijk. We all had different learning goals we aimed to meet while working on the project but still worked hard together
@@ -7,7 +11,7 @@ In the five weeks we made an application with you you could navigate through the
 Product repo link maybe? idk
 
 
-## Focusing on
+## Learning goals
 Leaning on the concept
 
 ### BT
