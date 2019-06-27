@@ -34,3 +34,7 @@ Ik denk dat ik gepaste rubrics heb gekozen voor het project en voor mijn rol en 
 Ik heb in dit project natuurlijk samengewerkt met een team van erg getalenteerde ontwerps; Jeroen, Leonie en Martijn. Het was aangenaam om met ze te werken en een hele nieuwe ervaring. Ik had tot dit project nog nooit samengewerkt in git dus was het aanleren van het werken op branches, mergen en het oplossen van merge conflicts (want het ging niet altijd goed vooral in de eerste stadia) een hele handige skill. Verder vond ik het tempo erg hoog, Jeroen en Martijn zijn allebei snel en slim, ze werken en denken op een niveau waarvan ik het idee krijg dat ik niet altijd mee kan praten en ik ben blij dat ik ze beiden deel uitmaakten van het team want ze hebben het concept echt leven in geblazen. Het was ook een leuk team om mee samen te werken ik heb me erg vermaakt en alle teamleden waren redelijk flexibel en stonden open voor discussie over hoe bepaalde features vorm moesten krijgen en of ze er in moesten of niet.
 
 Het enige minpuntje binnen het project is dat we niet altijd even goed alles gedocumenteerd hebben, dit is niet van een enkeling maar de groep als geheel was relatief gefocusst op het bouwen van het product en zagen de documentatie als iets wat er na zou komen. Maar verder topteam.
+
+
+## Product biografie
+Voor mijn product biografie (in English) click [hier](https://github.com/Timilof/meesterproef-1819)
